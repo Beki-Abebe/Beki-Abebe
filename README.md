@@ -10,6 +10,10 @@ I'm actively enhancing my cloud expertise and seeking opportunities to apply my 
 - 🏗 **Infrastructure as Code (IaC):** Automating deployments with Terraform and AWS CDK.
 - 📡 **DevOps & CI/CD:** Implementing CI/CD pipelines with GitHub Actions and AWS services.
 
+## 📜 Certifications
+- ☁️ **AWS Certified Solutions Architect – Associate**
+- ☁️ **AWS Certified Cloud Practitioner**
+
 ## 🔧 Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) 
