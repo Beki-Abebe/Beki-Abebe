@@ -1,6 +1,6 @@
 # Hi there, I'm **Beki**, 👋
 
-I'm a cloud and DevOps engineer from Ethiopia who enjoys learning and building cool things in the cloud. I thrive on deep learning and understanding not just how things work, but why they matter—exploring the impact of technologies and the importance of different perspectives.
+I'm a **cloud and DevOps engineer** from Ethiopia who enjoys learning and building cool things in the cloud. I thrive on deep learning and understanding not just how things work, but why they matter—exploring the impact of technologies and the importance of different perspectives.
 
 With a **Bachelor's degree in Computer Science**, I have a solid foundation in technology, and my current focus is **cloud computing**. I'm particularly fascinated by **serverless architectures** and their potential to enhance cost and performance efficiency.
 
