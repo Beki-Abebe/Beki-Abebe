@@ -1,12 +1,10 @@
-# Welcome to My GitHub! 👋
+# Hi there, I'm **Beki**, 👋
 
-## About Me
-Hi, I'm **Beki**, a passionate technology enthusiast from Ethiopia. I thrive on deep learning and understanding not just how things work, but why they matter—exploring the impact of technologies and the importance of different perspectives.
+I'm a cloud and DevOps engineer from Ethiopia who enjoys learning and building cool things in the cloud. I thrive on deep learning and understanding not just how things work, but why they matter—exploring the impact of technologies and the importance of different perspectives.
 
 With a **Bachelor's degree in Computer Science**, I have a solid foundation in technology, and my current focus is **cloud computing**. I'm particularly fascinated by **serverless architectures** and their potential to enhance cost and performance efficiency.
 
-Though new to the field, I'm committed to continuous learning and eager to gain hands-on experience. I'm actively seeking opportunities, including internships, to grow and contribute in this exciting domain.
-
+I'm actively enhancing my cloud expertise and seeking opportunities to apply my skills in real-world environments. Open to collaborations, hands-on projects, and learning experiences in cloud engineering.
 ## 🔥 What I Do
 - 🚀 **Cloud Solutions:** Designing and deploying cloud-native applications using AWS.
 - 🏗 **Infrastructure as Code (IaC):** Automating deployments with Terraform and AWS CDK.
