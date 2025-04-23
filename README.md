@@ -23,24 +23,20 @@ I'm actively enhancing my cloud expertise and seeking opportunities to apply my 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
 
 ## 📬 Let's Connect!
-<!-- Include Font Awesome -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-
-<!-- Social Icons -->
-<div style="display: flex; gap: 15px;">
-  <a href="mailto:abebebeki1990@gmail.com" target="_blank" title="Email">
-    <i class="fas fa-envelope"></i>
+<p align="center">
+  <a href="mailto:abebebeki1990@gmail.com">
+    <img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="email" />
   </a>
-  <a href="https://www.linkedin.com/in/beki-abebe/" target="_blank" title="LinkedIn">
-    <i class="fab fa-linkedin"></i>
+  <a href="https://www.linkedin.com/in/beki-abebe/">
+    <img src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="linkedin" />
   </a>
-  <a href="https://x.com/beki_abebe" target="_blank" title="Twitter">
-    <i class="fab fa-twitter"></i>
+  <a href="https://x.com/beki_abebe">
+    <img src="https://img.shields.io/badge/twitter-white?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="twitter" />
   </a>
-  <a href="https://bekiresume.site" target="_blank" title="Website">
-    <i class="fas fa-globe"></i>
+  <a href="https://bekiresume.site">
+    <img src="https://img.shields.io/badge/website-white?style=for-the-badge&logo=internet-explorer&logoColor=4285F4" alt="website" />
   </a>
-</div>
+</p>
 
 
 ---
