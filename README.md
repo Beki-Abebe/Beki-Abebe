@@ -23,10 +23,25 @@ I'm actively enhancing my cloud expertise and seeking opportunities to apply my 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
 
 ## 📬 Let's Connect!
-📧 Email: [abebebeki1990@gmail.com](mailto:abebebeki1990@gmail.com.com)  
-🔗 LinkedIn: [linkedin.com/in/beki-abebe/](https://www.linkedin.com/in/beki-abebe/)  
-🐦 Twitter: [@beki_abebe](https://x.com/beki_abebe)  
-💻 Website: [bekiresume.site](https://bekiresume.site)  
+<!-- Include Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<!-- Social Icons -->
+<div style="display: flex; gap: 15px;">
+  <a href="mailto:abebebeki1990@gmail.com" target="_blank" title="Email">
+    <i class="fas fa-envelope"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/beki-abebe/" target="_blank" title="LinkedIn">
+    <i class="fab fa-linkedin"></i>
+  </a>
+  <a href="https://x.com/beki_abebe" target="_blank" title="Twitter">
+    <i class="fab fa-twitter"></i>
+  </a>
+  <a href="https://bekiresume.site" target="_blank" title="Website">
+    <i class="fas fa-globe"></i>
+  </a>
+</div>
+
 
 ---
 ### 🚀 Always Building & Learning! 
